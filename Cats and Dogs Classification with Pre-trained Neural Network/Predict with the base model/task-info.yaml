@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: transfer.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+  - name: stage2-chart.png
+    visible: true
+    is_binary: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/27995#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 24 Dec 2024 08:36:08 UTC"
+record: 5
